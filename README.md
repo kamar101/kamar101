@@ -8,6 +8,8 @@
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Backdoor (ZTM)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Password Checker (Pwned API)</b>
+  - [Pwned-API-Password-checker](https://github.com/kamar101/Pwned-API-Password-checker)
 - <b>Azure Sentinel (SIEM)</b>
   - [In progress](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   
@@ -19,7 +21,7 @@
   - [Week 3: Automatically Generate a PDF and send it by Email](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Week 4: Automate updating catalog information](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Portfolio Website</b>
-  - [Python Flask Website](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Python Flask Website](https://github.com/kamar101/Python-Portfolio-Website)
   
 <h2>📜 Certification</h2>
 
