@@ -3,7 +3,7 @@
 <h2>🤖 Cybersecurity Projects:</h2>
 
 - <b>Port Scanner (ZTM)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Python Port Scanner](https://github.com/kamar101/Port-Scanner)
 - <b>Bruteforcer (DVWA password spraying)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Backdoor (ZTM)</b>
