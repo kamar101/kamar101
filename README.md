@@ -7,19 +7,19 @@
 - <b>Bruteforcer (DVWA password spraying)</b>
   - [Bruteforcer - Password Spraying](https://github.com/kamar101/Bruteforcer-Password-Spraying)
 - <b>Backdoor (ZTM)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Backdoor - Maintaining Accessn](https://github.com/kamar101/Backdoor)
 - <b>Password Checker (Pwned API)</b>
   - [Pwned-API-Password-checker](https://github.com/kamar101/Pwned-API-Password-checker)
 - <b>Azure Sentinel (SIEM)</b>
-  - [In progress](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [In progress](https://github.com/kamar101/Azure-Sentinel)
   
 <h2>🐍 Python Projects:</h2>
 
 - <b>IT Automating Real-World Tasks with Python (Google Certificate)</b>
-  - [Week 1: Scale and convert images using PIL](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Week 2: Process Text Files with Python Dictionaries and Upload to Running Web Service](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Week 3: Automatically Generate a PDF and send it by Email](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Week 4: Automate updating catalog information](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Week 1: Scale and convert images using PIL](https://github.com/kamar101/Scale-and-convert-images-using-PIL)
+  - [Week 2: Process Text Files with Python Dictionaries and Upload to Running Web Service](https://github.com/kamar101/Process-Text-Files-with-Python-Dictionaries-and-Upload-to-Running-Web-Service)
+  - [Week 3: Automatically Generate a PDF and send it by Email](https://github.com/kamar101/Automatically-Generate-a-PDF-and-send-it-by-Email)
+  - [Week 4: Automate updating catalog information](https://github.com/kamar101/Automate-updating-catalog-information)
 - <b>Portfolio Website</b>
   - [Python Flask Website](https://github.com/kamar101/Python-Portfolio-Website)
   
