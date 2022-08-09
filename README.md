@@ -5,7 +5,7 @@
 - <b>Port Scanner (ZTM)</b>
   - [Python Port Scanner](https://github.com/kamar101/Port-Scanner)
 - <b>Bruteforcer (DVWA password spraying)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Bruteforcer - Password Spraying](https://github.com/kamar101/Bruteforcer-Password-Spraying)
 - <b>Backdoor (ZTM)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Password Checker (Pwned API)</b>
