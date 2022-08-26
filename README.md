@@ -11,7 +11,7 @@
 - <b>Password Checker (Pwned API)</b>
   - [Pwned-API-Password-checker](https://github.com/kamar101/Pwned-API-Password-checker)
 - <b>Azure Sentinel (SIEM)</b>
-  - [In progress](https://github.com/kamar101/Azure-Sentinel)
+  - [Azure Sentinel: Failed RDP Login Event Mapped by Geolocation](https://github.com/kamar101/Azure-Sentinel)
   
 <h2>🐍 Python Projects:</h2>
 
